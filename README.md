@@ -11,6 +11,8 @@ An enterprise-style **Supply Chain Intelligence Platform** developed in **Power 
 Modern organizations require real-time visibility into supply chain operations to improve profitability, optimize logistics, and enhance customer satisfaction. This project transforms raw transactional data into meaningful business insights through an interactive Power BI dashboard.
 
 The dashboard enables business users to monitor revenue, profitability, shipping performance, product performance, and customer trends using KPI-driven visualizations.
+<img width="1308" height="737" alt="image" src="https://github.com/user-attachments/assets/ce88856c-311c-48b2-98b0-0dce8eff135d" />
+
 
 ---
 
